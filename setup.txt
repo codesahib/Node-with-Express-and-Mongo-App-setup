@@ -1,0 +1,1 @@
+Change <username>, <password>, <db_name> in RESTREVIEWS_DB_URI in .env file
